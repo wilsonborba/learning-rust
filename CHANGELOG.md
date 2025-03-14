@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 ## [unreleased]
 
+### 🚀 Features
+
+- *(new_app)* Created a calculator project
+
 ### ⚙️ Miscellaneous Tasks
 
 - *(env)* Added CHANGELOG.md file
