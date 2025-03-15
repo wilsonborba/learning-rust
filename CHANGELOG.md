@@ -9,6 +9,7 @@ All notable changes to this project will be documented in this file.
 - *(new_app)* Created a calculator project
 - *(calculator)* App calculator finish with simple operations
 - *(calculator)* App calculator finish with simple operations
+- *(todo)* Created a process to read the todo file
 
 ### 🐛 Bug Fixes
 

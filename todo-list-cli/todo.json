@@ -1,0 +1,23 @@
+{
+    "owner": {
+        "name": "John Doe",
+        "email": "johndoe@test.com"
+    },
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Buy groceries",
+            "completed": false
+        },
+        {
+            "id": 2,
+            "title": "Pay bills",
+            "completed": false
+        },
+        {
+            "id": 3,
+            "title": "Call mom",
+            "completed": true
+        }
+    ]
+}
