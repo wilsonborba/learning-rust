@@ -10,6 +10,7 @@ All notable changes to this project will be documented in this file.
 - *(calculator)* App calculator finish with simple operations
 - *(calculator)* App calculator finish with simple operations
 - *(todo)* Created a process to read the todo file
+- *(todo)* Created a full todo list by cli
 
 ### 🐛 Bug Fixes
 

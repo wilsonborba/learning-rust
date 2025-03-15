@@ -1,27 +1,28 @@
-use serde::Deserialize;
+use serde::{Deserialize, Serialize};
 
 
 
-#[derive(Debug, Deserialize)]
+
+#[derive(Debug, Deserialize, Serialize)]
 #[allow(dead_code)]
-pub struct Owner {
-    pub name: String,
-    pub email: String,
+pub struct TodoFile {
+    pub owner: Vec<Owner>,
 }
 
 
-#[derive(Debug, Deserialize)]
+#[derive(Debug, Deserialize, Serialize)]
 #[allow(dead_code)]
-pub struct TodoFile {
-    pub owner: Owner,
+pub struct Owner {
+    pub uuid: String,
+    pub name: String,
+    pub email: String,
     pub tasks: Vec<Task>,
 }
 
-
-#[derive(Debug, Deserialize)]
+#[derive(Debug, Deserialize, Serialize)]
 #[allow(dead_code)]
 pub struct Task {
-    pub id: u32,
+    pub uuid: String,
     pub title: String,
     pub completed: bool,
 }
