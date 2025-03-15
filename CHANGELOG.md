@@ -7,6 +7,7 @@ All notable changes to this project will be documented in this file.
 ### 🚀 Features
 
 - *(new_app)* Created a calculator project
+- *(calculator)* App calculator finish with simple operations
 
 ### ⚙️ Miscellaneous Tasks
 
