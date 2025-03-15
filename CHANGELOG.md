@@ -11,6 +11,7 @@ All notable changes to this project will be documented in this file.
 - *(calculator)* App calculator finish with simple operations
 - *(todo)* Created a process to read the todo file
 - *(todo)* Created a full todo list by cli
+- *(new_app)* Created a todo list web app
 
 ### 🐛 Bug Fixes
 
