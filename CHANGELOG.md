@@ -12,6 +12,7 @@ All notable changes to this project will be documented in this file.
 - *(todo)* Created a process to read the todo file
 - *(todo)* Created a full todo list by cli
 - *(new_app)* Created a todo list web app
+- *(todo-web)* Created the first html view
 
 ### 🐛 Bug Fixes
 
