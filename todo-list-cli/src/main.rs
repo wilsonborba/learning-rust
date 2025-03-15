@@ -1,8 +1,11 @@
 
-
+mod model;
+mod todo_manager;
+mod cli_manager;
 
 fn main() {
-    
-    println!("Hello, world!");
 
+    cli_manager::run();
+    
 }
+
